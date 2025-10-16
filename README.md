@@ -1,6 +1,6 @@
 # 🎥 Real-Time Video Streaming Platform
 
-A comprehensive, secure, and high-performance real-time video streaming solution developed during an internship at **Maghreb Arabe Presse (MAP)**. This project integrates video capture, compression, segmentation, encryption, and adaptive streaming with network monitoring capabilities.
+A comprehensive, secure, and high-performance real-time video streaming solution. This project integrates video capture, compression, segmentation, encryption, and adaptive streaming with network monitoring capabilities.
 
 ---
 
